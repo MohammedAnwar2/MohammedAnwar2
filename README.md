@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/MohammedAnwar2/MohammedAnwar2/blob/main/screenshots/flutter.webp" alt="Flutter Image" width="50%"/>
+  <img src="https://github.com/MohammedAnwar2/MohammedAnwar2/blob/main/screenshots/flutter.webp" alt="Flutter Image" width="50%" style="border-radius: 15px;"/>
 </p>
+
 
 
 
