@@ -5,7 +5,8 @@
     <a href="https://wa.me/917411440342"><img src="https://img.shields.io/badge/whatsapp-%25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-<img src="img src="https://github.com/MohammedAnwar2/MohammedAnwar2/blob/main/screenshots/flutter.webp" alt="Flutter Image" width="25%"/>
+<img src="https://github.com/MohammedAnwar2/MohammedAnwar2/blob/main/screenshots/flutter.webp" alt="Flutter Image" width="25%"/>
+
 
 I'm a **Flutter Developer** passionate about creating technology to elevate people and help new developers find the right path. Some technologies I enjoy working with include **Dart, Flutter, Firebase, and modern UI/UX principles**.
 
