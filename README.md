@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohammed Anwar 👋</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/your_linkedin"><img src="https://www.linkedin.com/in/mohammad-anwar-bin-muslim-50102725b/"/></a>
+    <a href="https://www.linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white""></a>
     <a href="https://wa.me/917411440342"><img src="https://img.shields.io/badge/whatsapp-%25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
 </p>
 
