@@ -14,10 +14,10 @@
 
 I'm Mohammed Anwar, a passionate Flutter Developer 🚀 dedicated to building innovative, cross-platform mobile apps 📱 with exceptional performance and design. Proficient in Dart, Flutter, and Firebase, I specialize in crafting seamless user experiences and responsive designs 🎨.
 
-#About Me 👨‍💻
+# About Me 👨‍💻
 
-🔭 #Expertise: State management with Provider and GetX, advanced animations ✨, API integration 🌐, and performance optimization ⚡.
-💻 #Skills: Backend integration 🔄, REST APIs, modern UI/UX design principles 🎨, and scalable app architecture 🏗️.
+🔭 # Expertise: State management with Provider and GetX, advanced animations ✨, API integration 🌐, and performance optimization ⚡.
+💻 # Skills: Backend integration 🔄, REST APIs, modern UI/UX design principles 🎨, and scalable app architecture 🏗️.
 
 📚 #Achievements:
 🚀 Designed reusable components to accelerate development timelines.
