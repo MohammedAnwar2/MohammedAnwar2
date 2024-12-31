@@ -16,10 +16,10 @@
 
 # About Me 👨‍💻
 
-**🔭 #Expertise:** State management with Provider and GetX, advanced animations ✨, API integration 🌐, and performance optimization ⚡.
-**💻  #Skills:** Backend integration 🔄, REST APIs, modern UI/UX design principles 🎨, and scalable app architecture 🏗️.
+**🔭 Expertise:** State management with Provider and GetX, advanced animations ✨, API integration 🌐, and performance optimization ⚡.
+**💻 Skills:** Backend integration 🔄, REST APIs, modern UI/UX design principles 🎨, and scalable app architecture 🏗️.
 
-**📚 #Achievements:**
+**📚 Achievements:**
 🚀 Designed reusable components to accelerate development timelines.
 🔔 Leveraged Firebase for real-time syncing and push notifications.
 🎯 Built scalable, responsive, and visually engaging applications.
