@@ -22,6 +22,3 @@ I'm a **Flutter Developer** passionate about creating technology to elevate peop
 - 📚 I’m constantly learning and exploring advanced animations, responsive design, and optimizing app performance.
 
 ---
-
-### Note:
-Replace `your_twitter`, `your_linkedin`, `your_youtube`, and `your_phone_number` with your actual links and phone number formatted for WhatsApp (e.g., `https://wa.me/1234567890`).
