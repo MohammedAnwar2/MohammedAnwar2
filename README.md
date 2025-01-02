@@ -16,7 +16,7 @@
 
 # About Me 👨‍💻
 
-**🔭Expertise:** State management with Provider and GetX, advanced animations ✨, API integration 🌐, and performance optimization⚡
+**🔭Expertise:** State management with Bloc, Cubit and GetX, advanced animations ✨, API integration 🌐, and performance optimization⚡
 
 **💻Skills:** Backend integration 🔄, REST APIs, modern UI/UX design principles 🎨, and scalable app architecture 🏗️.
 
